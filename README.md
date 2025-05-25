@@ -37,17 +37,17 @@ This project uses **natural language processing (NLP)** and **content-based filt
     jupyter notebook Content_Based_Filtering_of_Emotions.ipynb
 
 
-##💡 How to Use
+## 💡 How to Use
 - Run each cell in the notebook step by step.
 - Enter your own text when prompted.
 - View the predicted emotions based on your input.
 
-##📌 Example
+## 📌 Example
 - Input: "I feel so low and tired lately."
 - Output: ['Sadness', 'Fatigue']
 
-##👤 Author
+## 👤 Author
 - Created by Vyom Prajapati
 
-##📄 License
+## 📄 License
 - This project is licensed under the MIT License.
